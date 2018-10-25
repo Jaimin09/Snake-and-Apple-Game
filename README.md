@@ -1,5 +1,6 @@
 # Snake-and-Apple-Game
-Increase the length of Snake by feeding apples
+Increase the length of Snake by feeding apples.
+Used Pygame library of Python.
 
 # Cool Features:
 Average looking graphics. Little Hard to play.
