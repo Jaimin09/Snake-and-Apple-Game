@@ -4,9 +4,14 @@ A fun Snake-and-Apple game in which everytime the snake eats an apple, its lengt
 We all must have played this game in our childhood. And its still a fun to see if we can beat our own previous record. Its a fun challenge we like to accept !
 
 # Features :
-- The score gets updated everytime the snake eats and apple
+- It is coded using pygame library in python
 - You can play/pause the game anytime
+- The score gets updated everytime the snake eats and apple
 
-It is coded using pygame in python !
+# Files :
+- main.py contains the entire python code for this game
+- Images folder contains the required images to make the game look graphically attractive
 
 ![slither-ss](https://user-images.githubusercontent.com/37634919/47491992-a4a14c00-d869-11e8-9c02-da9402efe2e7.png)
+
+![slither](https://github.com/Jaimin09/Snake-and-Apple-Game/blob/master/Images/slither.gif?raw=true)
